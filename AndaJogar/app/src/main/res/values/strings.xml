@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Anda Jogar</string>
+
+    <string name="player_name_placeholder">Pepega Pinto</string>
 </resources>
